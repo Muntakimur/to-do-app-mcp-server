@@ -41,8 +41,6 @@ This project is a **Task Manager MCP Server** designed to manage tasks efficient
    ```sh
    pip install -r requirements.txt
    ```
-3. Set up environment variables:
-   - Create a `.env` file and configure necessary variables.
 
 ## Usage
 
@@ -88,15 +86,3 @@ The AI agent ([agent.py](agent.py)) uses LangChain to process user queries and i
 ## Dependencies
 
 See [requirements.txt](requirements.txt) for a complete list of dependencies.
-
-## License
-
-This project is licensed under [Your License].
-
-## Contributing
-
-Contributions are welcome! Please submit a pull request or open an issue for discussion.
-
-## Contact
-
-For questions or support, contact [Your Email/Contact Info].
