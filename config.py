@@ -21,7 +21,7 @@ class Config:
     OLLAMA_CONTEXT_WINDOW = 4096 # increase to allow longer conversations but slower response 
     class Server: 
         HOST = "0.0.0.0" 
-        PORT = 8000 
+        PORT = 8001 
         SSE_PATH = "/sse" 
         TRANSPORT = "sse" 
     class Agent:
